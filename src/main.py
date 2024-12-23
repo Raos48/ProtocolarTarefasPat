@@ -31,7 +31,10 @@ import sys
 
 
 LOCAL_VERSION = "1.0.0"
-VERSION_JSON_URL = "https://raw.githubusercontent.com/Raos48/ProtocolarTarefasPat/main/updates/version.json"
+VERSION_JSON_URL = "https://github.com/Raos48/ProtocolarTarefasPat/tree/3a7d782b0fe40a601c82dcb510e74f27f627d160/updates/version.json"
+
+
+
 
 def main():
 
