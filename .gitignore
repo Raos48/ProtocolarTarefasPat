@@ -1,0 +1,38 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Ambiente virtual
+venv/
+.venv/
+env/
+.env/
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos de configuração/propriedades (se desejar ignorá-los)
+config.ini
+
+# Arquivos de log
+*.log
+
+# Arquivos específicos do seu projeto
+main.spec
+protocolo_pat.xlsx
+headers.txt
+
+# Pastas de distribuição do PyInstaller / cx_Freeze etc.
+dist/
+build/
+
+# Pasta do VSCode
+.vscode/
+
+# Pasta cache do pytest
+.pytest_cache/
+
+# Pastas de checkpoints do Jupyter Notebook
+.ipynb_checkpoints/
+
